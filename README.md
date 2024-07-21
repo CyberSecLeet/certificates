@@ -1,7 +1,7 @@
 # Cyber Sec Leet Certificates
 
 ## EHE50
-Ethical Hacking Expert 50
+Ethical Hacking Expert 50 (Theory)
 
 
 
